@@ -24,7 +24,7 @@ F3=Lith C11 Intact  F4=Lith G9 Intact
 
 ## Download
 
-See releases page -->
+[See releases page](https://github.com/Martk0s/wf-relic-picker/releases/latest)
 
 
 ## Run from source
